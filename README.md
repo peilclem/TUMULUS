@@ -1,8 +1,5 @@
-# TUMULUS
-Let's revive Papy's code
-
-# 🛰️ Grandad's Physics Playground
-
+# 🛰️ TUMULUS
+Let's revive Papy's code !!!
 A personal project to revive and expand my grandfather’s educational physics simulations — bringing them into the modern Python ecosystem with interactive visualizations and a GUI built using **PySide6 / Qt**.
 
 ---
